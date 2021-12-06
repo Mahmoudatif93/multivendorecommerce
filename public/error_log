@@ -1,0 +1,18 @@
+[24-May-2021 20:17:10 UTC] PHP Fatal error:  Class App\Client contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (Tymon\JWTAuth\Contracts\JWTSubject::getJWTIdentifier, Tymon\JWTAuth\Contracts\JWTSubject::getJWTCustomClaims) in /home/ulq6j8g2g81o/public_html/app/Client.php on line 10
+[24-May-2021 20:18:52 UTC] PHP Fatal error:  Class App\Client contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (Tymon\JWTAuth\Contracts\JWTSubject::getJWTIdentifier, Tymon\JWTAuth\Contracts\JWTSubject::getJWTCustomClaims) in /home/ulq6j8g2g81o/public_html/app/Client.php on line 10
+[25-May-2021 17:08:46 UTC] PHP Fatal error:  Cannot redeclare App\Cities::regions_ar() in /home/ulq6j8g2g81o/public_html/app/Cities.php on line 30
+[25-May-2021 22:38:08 UTC] PHP Fatal error:  Trait 'App\Translatable' not found in /home/ulq6j8g2g81o/public_html/app/Product.php on line 11
+[02-Jun-2021 12:47:54 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:48:20 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:48:49 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:49:38 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:51:59 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:52:25 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:52:55 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[02-Jun-2021 12:53:09 UTC] PHP Fatal error:  Cannot redeclare App\Order::Client() in /home/ulq6j8g2g81o/public_html/app/Order.php on line 25
+[11-Jun-2021 15:09:29 UTC] PHP Fatal error:  Redefinition of parameter $data in /home/ulq6j8g2g81o/public_html/app/Http/Controllers/API/ApiResourceTrait.php on line 167
+[11-Jun-2021 15:09:35 UTC] PHP Fatal error:  Redefinition of parameter $data in /home/ulq6j8g2g81o/public_html/app/Http/Controllers/API/ApiResourceTrait.php on line 167
+[11-Jun-2021 15:10:14 UTC] PHP Fatal error:  Redefinition of parameter $data in /home/ulq6j8g2g81o/public_html/app/Http/Controllers/API/ApiResourceTrait.php on line 167
+[11-Jun-2021 15:10:51 UTC] PHP Fatal error:  Redefinition of parameter $data in /home/ulq6j8g2g81o/public_html/app/Http/Controllers/API/ApiResourceTrait.php on line 167
+[06-Dec-2021 08:51:04 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/ulq6j8g2g81o/public_html/app/Http/Controllers/Dashboard/UserController.php on line 35
+[06-Dec-2021 09:41:44 UTC] PHP Fatal error:  Cannot redeclare App\Cities::User() in /home/ulq6j8g2g81o/public_html/app/Cities.php on line 50
